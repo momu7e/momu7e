@@ -1,15 +1,27 @@
-# 🛠️ Mohamed  
+# 👋 Hi, I'm Mohamed  
 **`Systems Architect • Founder of Athryl & Arclor`**
 
-Building infrastructure for operators who value precision over noise.  
-Founder of **Athryl**, a DFY automation OS for online coaches, and **Arclor**, a lean applied-AI consultancy.  
-Everything I build follows one rule: systems should think so humans don’t have to.
+I design systems that remove human inconsistency from operations.  
+Founder of **Athryl** — automation OS for online fitness and nutrition coaches.  
+Running **Arclor** — applied AI consulting for lean operators.
 
 <p align="left">
-   <a href="https://github.com/Mohamed">
-      <img alt="GitHub followers" title="Follow on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Mohamed?color=0E7FC0&label=FOLLOW&logo=person-add&logoColor=white&style=for-the-badge"/></a>
-   <a href="https://github.com/Mohamed?tab=repositories&sort=stargazers">
-      <img alt="GitHub Stars" title="Total Stars" src="https://custom-icon-badges.demolab.com/github/stars/Mohamed?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white"/></a>
+   <a href="https://github.com/momu7e?tab=followers">
+      <img alt="GitHub followers" src="https://custom-icon-badges.demolab.com/github/followers/momu7e?color=0E7FC0&label=FOLLOW&logo=person-add&logoColor=white&style=for-the-badge"/>
+   </a>
+   <a href="https://github.com/momu7e?tab=repositories&sort=stargazers">
+      <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/momu7e?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white"/>
+   </a>
+</p>
+
+---
+
+## 🔗 Socials
+
+<p align="left">
+   <a href="https://www.linkedin.com/in/mohamed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="https://www.instagram.com/momu7e"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+   <a href="mailto:mohamed@athryl.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
 </p>
 
 ---
@@ -17,52 +29,49 @@ Everything I build follows one rule: systems should think so humans don’t have
 ## ⚙️ What I Build
 
 ### **Athryl — Automation OS for Fitness/Nutrition Coaches**
-A complete operational backbone:
 - Multi-tenant Supabase (Postgres + RLS)  
-- Next.js 15 (App Router, TypeScript, shadcn/ui)  
-- n8n workflow engine: check-ins, risk scoring, retention, billing  
-- Stripe dunning + subscription logic  
-- AI-generated client feedback & report summaries  
-- Coach dashboards, client management, onboarding tasks  
+- Next.js 15 + shadcn/ui  
+- n8n workflow engine (check-ins, payments, retention, risk scoring)  
+- Stripe billing + dunning  
+- AI-generated check-in summaries & reports  
+- Coach dashboards, onboarding flows, client management  
 
-### **Arclor — Applied AI for small teams**  
-Target: high-leverage automation & operational tooling for businesses needing deterministic systems.
+### **Arclor — Applied AI Consulting**
+Operational automation for small teams that want deterministic workflows.
 
 ---
 
 ## 🧰 Languages & Tools
-<img align="left" alt="TypeScript" width="36px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-<img align="left" alt="NextJS" width="36px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-<img align="left" alt="React" width="36px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Tailwind" width="36px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
-<img align="left" alt="Postgres" width="36px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="Supabase" width="36px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"/>
-<img align="left" alt="n8n" width="36px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg"/>
-<img align="left" alt="Stripe" width="36px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg"/>
-<img align="left" alt="Linux" width="36px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Docker" width="36px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="Bash" width="36px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+
+<img align="left" alt="TypeScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+<img align="left" alt="NextJS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="Tailwind" width="36px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg"/>
+<img align="left" alt="Postgres" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="Supabase" width="36px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg"/>
+<img align="left" alt="Linux" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Docker" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <br/><br/>
 
 ---
 
-## 📦 Current Project  
-**Athryl V1**  
-- Full automation suite  
-- Client dashboard  
+## 📦 Current Project: Athryl V1
+
+Delivering:  
+- Full automation engine  
+- AI-driven check-in analysis  
+- Payments + dunning workflows  
 - Reporting engine  
-- AI-driven compliance + risk detection  
-- Coach activity pipeline  
+- Coach → Client workflow system  
 
 ---
 
-
 ## 📊 Stats
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed&show_icons=true&theme=gruvbox)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=momu7e&show_icons=true&theme=gruvbox)
 
 ---
 
 ## 📫 Contact  
 **Business:** mohamed@athryl.com  
 **Brand:** mohamed@arclor.com
-
