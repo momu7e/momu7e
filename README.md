@@ -56,14 +56,6 @@ Target: high-leverage automation & operational tooling for businesses needing de
 
 ---
 
-## 🖥️ Home Lab (Personal)
-- Proxmox  
-- Docker stacks  
-- Pi-hole / VPN / Nginx Proxy Manager  
-- Twingate remote access  
-- Local LLM experiments  
-
----
 
 ## 📊 Stats
 ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed&show_icons=true&theme=gruvbox)
