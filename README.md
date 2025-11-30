@@ -19,7 +19,7 @@ Running **Arclor** — applied AI consulting for lean operators.
 ## 🔗 Socials
 
 <p align="left">
-   <a href="https://www.linkedin.com/in/mohamed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/mohamedmuse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="https://www.instagram.com/momu7e"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    <a href="mailto:mohamed@athryl.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
 </p>
