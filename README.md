@@ -2,8 +2,8 @@
 **`Systems Architect • Founder of Athryl & Arclor`**
 
 I design systems that remove human inconsistency from operations.  
-Founder of **Athryl** — automation OS for online fitness and nutrition coaches.  
-Running **Arclor** — applied AI consulting for lean operators.
+Founder of **Athryl** - automation OS for online fitness and nutrition coaches.  
+Running **Arclor** - applied AI consulting for lean operators.
 
 <p align="left">
    <a href="https://github.com/momu7e?tab=followers">
