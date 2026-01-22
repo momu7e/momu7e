@@ -1,103 +1,28 @@
-<div align="center">
+### Mohamed
 
-```
-███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███████╗██████╗
-████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║██╔════╝██╔══██╗
-██╔████╔██║██║   ██║███████║███████║██╔████╔██║█████╗  ██║  ██║
-██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
-██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
-```
+I build systems that replace human inconsistency with automation.
 
-**Systems Architect**
-
-*I design systems that remove human inconsistency from operations.*
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedmuse)
-[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/momu7e)
-[![Email](https://img.shields.io/badge/email-%23000000.svg?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:mohamed@athryl.com)
-
-</div>
+Founder of [Athryl](https://athryl.com) — AI operations for fitness coaches. Replaces the VA.
+Running [Arclor](https://arclor.com) — applied AI consulting for lean operators.
 
 ---
 
-<br>
+#### Now
 
-## Ventures
+Building Athryl V7. Multi-tenant architecture, AI-driven workflows, payment automation, retention systems. 130 features. Ship daily.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+#### Stack
 
-### Athryl
+TypeScript · Next.js · React · Tailwind · Supabase · Postgres · Stripe · Docker
 
-AI Operations Team for online fitness coaches.
+#### Reach
 
-Replaces hiring a VA — leads, check-ins, payments, retention, 24/7 client support. All automated.
-
-`£2,500/month`
-
-</td>
-<td width="50%" valign="top">
-
-### Arclor
-
-Applied AI consulting.
-
-Deterministic workflows for lean operators who want systems, not headcount.
-
-</td>
-</tr>
-</table>
-
-<br>
+[LinkedIn](https://linkedin.com/in/mohamedmuse) · [Instagram](https://instagram.com/momu7e) · [mohamed@athryl.com](mailto:mohamed@athryl.com)
 
 ---
 
-<br>
-
-## Stack
-
-```
-typescript   next.js   react   tailwind   shadcn/ui
-postgres     supabase  rls     stripe     docker
-```
-
-<br>
-
----
-
-<br>
-
-## Current Build
-
-```
-ATHRYL V7 — Category Killer
-
-├── Multi-tenant architecture (RLS-enforced)
-├── AI check-in analysis + draft responses
-├── Payment recovery + dunning automation
-├── Risk scoring + retention engine
-├── White-label agency system
-└── 130 features. Zero fluff.
-```
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=momu7e&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff)
-
-<br>
-
-```
-mohamed@athryl.com
-```
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=momu7e&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_title=true&hide_rank=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=momu7e&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=6f6f6f&icon_color=000000&hide_title=true&hide_rank=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=momu7e&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_title=true&hide_rank=true">
+</picture>
