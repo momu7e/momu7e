@@ -1,77 +1,103 @@
-# 👋 Hi, I'm Mohamed  
-**`Systems Architect • Founder of Athryl & Arclor`**
+<div align="center">
 
-I design systems that remove human inconsistency from operations.  
-Founder of **Athryl** - automation OS for online fitness and nutrition coaches.  
-Running **Arclor** - applied AI consulting for lean operators.
+```
+███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███████╗██████╗
+████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║██╔════╝██╔══██╗
+██╔████╔██║██║   ██║███████║███████║██╔████╔██║█████╗  ██║  ██║
+██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
+```
 
-<p align="left">
-   <a href="https://github.com/momu7e?tab=followers">
-      <img alt="GitHub followers" src="https://custom-icon-badges.demolab.com/github/followers/momu7e?color=0E7FC0&label=FOLLOW&logo=person-add&logoColor=white&style=for-the-badge"/>
-   </a>
-   <a href="https://github.com/momu7e?tab=repositories&sort=stargazers">
-      <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/momu7e?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white"/>
-   </a>
-</p>
+**Systems Architect**
 
----
+*I design systems that remove human inconsistency from operations.*
 
-## 🔗 Socials
+<br>
 
-<p align="left">
-   <a href="https://www.linkedin.com/in/mohamedmuse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="https://www.instagram.com/momu7e"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-   <a href="mailto:mohamed@athryl.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedmuse)
+[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/momu7e)
+[![Email](https://img.shields.io/badge/email-%23000000.svg?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:mohamed@athryl.com)
+
+</div>
 
 ---
 
-## ⚙️ What I Build
+<br>
 
-### **Athryl — Automation OS for Fitness/Nutrition Coaches**
-- Multi-tenant Supabase (Postgres + RLS)  
-- Next.js 15 + shadcn/ui  
-- n8n workflow engine (check-ins, payments, retention, risk scoring)  
-- Stripe billing + dunning  
-- AI-generated check-in summaries & reports  
-- Coach dashboards, onboarding flows, client management  
+## Ventures
 
-### **Arclor — Applied AI Consulting**
-Operational automation for small teams that want deterministic workflows.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### Athryl
 
-## 🧰 Languages & Tools
+AI Operations Team for online fitness coaches.
 
-<img align="left" alt="TypeScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-<img align="left" alt="NextJS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-<img align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Tailwind" width="36px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg"/>
-<img align="left" alt="Postgres" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="Supabase" width="36px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg"/>
-<img align="left" alt="Linux" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Docker" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<br/><br/>
+Replaces hiring a VA — leads, check-ins, payments, retention, 24/7 client support. All automated.
 
----
+`£2,500/month`
 
-## 📦 Current Project: Athryl V1
+</td>
+<td width="50%" valign="top">
 
-Delivering:  
-- Full automation engine  
-- AI-driven check-in analysis  
-- Payments + dunning workflows  
-- Reporting engine  
-- Coach → Client workflow system  
+### Arclor
+
+Applied AI consulting.
+
+Deterministic workflows for lean operators who want systems, not headcount.
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-## 📊 Stats
+<br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=momu7e&show_icons=true&theme=gruvbox)
+## Stack
+
+```
+typescript   next.js   react   tailwind   shadcn/ui
+postgres     supabase  rls     stripe     docker
+```
+
+<br>
 
 ---
 
-## 📫 Contact  
-**Business:** mohamed@athryl.com  
-**Brand:** mohamed@arclor.com
+<br>
+
+## Current Build
+
+```
+ATHRYL V7 — Category Killer
+
+├── Multi-tenant architecture (RLS-enforced)
+├── AI check-in analysis + draft responses
+├── Payment recovery + dunning automation
+├── Risk scoring + retention engine
+├── White-label agency system
+└── 130 features. Zero fluff.
+```
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=momu7e&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff)
+
+<br>
+
+```
+mohamed@athryl.com
+```
+
+</div>
