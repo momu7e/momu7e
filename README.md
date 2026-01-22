@@ -1,28 +1,78 @@
-### Mohamed
+# 👋 Hi, I'm Mohamed
+**`Systems Architect • Founder of Athryl & Arclor`**
 
-I build systems that replace human inconsistency with automation.
+I design systems that remove human inconsistency from operations.
+Founder of **Athryl** — AI operations team for online fitness coaches.
+Running **Arclor** — applied AI consulting for lean operators.
 
-Founder of [Athryl](https://athryl.com) — AI operations for fitness coaches. Replaces the VA.
-Running [Arclor](https://arclor.com) — applied AI consulting for lean operators.
-
----
-
-#### Now
-
-Building Athryl V7. Multi-tenant architecture, AI-driven workflows, payment automation, retention systems. 130 features. Ship daily.
-
-#### Stack
-
-TypeScript · Next.js · React · Tailwind · Supabase · Postgres · Stripe · Docker
-
-#### Reach
-
-[LinkedIn](https://linkedin.com/in/mohamedmuse) · [Instagram](https://instagram.com/momu7e) · [mohamed@athryl.com](mailto:mohamed@athryl.com)
+<p align="left">
+   <a href="https://github.com/momu7e?tab=followers">
+      <img alt="GitHub followers" src="https://custom-icon-badges.demolab.com/github/followers/momu7e?color=0E7FC0&label=FOLLOW&logo=person-add&logoColor=white&style=for-the-badge"/>
+   </a>
+   <a href="https://github.com/momu7e?tab=repositories&sort=stargazers">
+      <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/momu7e?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white"/>
+   </a>
+</p>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=momu7e&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_title=true&hide_rank=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=momu7e&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=6f6f6f&icon_color=000000&hide_title=true&hide_rank=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=momu7e&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_title=true&hide_rank=true">
-</picture>
+## 🔗 Socials
+
+<p align="left">
+   <a href="https://www.linkedin.com/in/mohamedmuse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="https://www.instagram.com/momu7e"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+   <a href="mailto:mohamed@athryl.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
+</p>
+
+---
+
+## ⚙️ What I Build
+
+### **Athryl — AI Operations Team for Fitness Coaches**
+- Multi-tenant Supabase (Postgres + RLS)
+- Next.js 15 + shadcn/ui
+- AI-driven check-in analysis & draft responses
+- Stripe billing + payment recovery + dunning
+- Risk scoring, retention engine, 24/7 client AI
+- 130 features across 7 versions. Zero fluff.
+
+### **Arclor — Applied AI Consulting**
+Deterministic workflows for small teams that want systems, not headcount.
+
+---
+
+## 🧰 Languages & Tools
+
+<img align="left" alt="TypeScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+<img align="left" alt="NextJS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="Tailwind" width="36px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg"/>
+<img align="left" alt="Postgres" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="Supabase" width="36px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg"/>
+<img align="left" alt="Linux" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Docker" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<br/><br/>
+
+---
+
+## 📦 Current Project: Athryl V7
+
+Building the category killer for coach operations:
+- Multi-tenant architecture (RLS-enforced)
+- AI check-in analysis + draft responses
+- Payment recovery + dunning automation
+- Risk scoring + retention engine
+- White-label agency system
+- Ship daily.
+
+---
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=momu7e&show_icons=true&theme=gruvbox)
+
+---
+
+## 📫 Contact
+**Business:** mohamed@athryl.com
+**Brand:** mohamed@arclor.com
